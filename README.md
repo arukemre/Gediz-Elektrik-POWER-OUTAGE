@@ -1,0 +1,1 @@
+# Gediz-Elektrik-POWER-OUTAGE
