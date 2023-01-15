@@ -64,7 +64,7 @@
 
 ### Dikkate Alınan Değerlendirme Metrigi
 
-** RMSE/MSE
+* RMSE/MSE
 
 *  Kök Ortalama Kare Hatası (Root Mean Squared Error (RMSE)) / Ortalama Kare Hatası (Mean Squared Error (MSE)) 
 * Ortalama Kare Hatası tahmin edilen sonuçlarınızın gerçek sayıdan ne kadar farklı olduğuna dair size mutlak bir sayı verir. Tek bir sonuçtan çok fazla içgörü yorumlayamazsınız, ancak size diğer model sonuçlarıyla karşılaştırmak için gerçek bir sayı verir ve en iyi regresyon modelini seçmenize yardımcı olur. Kök Ortalama Karekök Hatası (RMSE), MSE’nin kareköküdür. MSE’den daha sık kullanılır çünkü bazen MSE değeri kolayca karşılaştırılamayacak kadar büyük olabilir. Bu yüzden MSE hata karesi ile hesaplanır ve böylece yorumlamayı kolaylaştırır. Fakat MSE aykırı değerlere karşı çok duyarlıdır.
