@@ -1,10 +1,8 @@
 # Gediz-Elektrik-POWER-OUTAGE
 
-* Elektrik Dağıtım Sektörünü düzenleyen Enerji Piyasası Düzenleme Kurulu (EPDK)’ca hazırlanan “Elektrik Dağıtım Şirketlerinin Satın alma ve Satış İşlemleri Uygulama Yönetmeliği”nde belirtilen hizmet standartlarına göre Elektrik Dağıtım Şirketleri, elektrik kesintisi olması durumunda hizmetin tekrar sağlanmasından sorumlu olup, kesintinin ilgili limitler dahili dışında devam etmesi halinde cezai yaptırımlarla karşı karşıya kalmaktadır.
+* Elektrik Dağıtım Sektörünü düzenleyen Enerji Piyasası Düzenleme Kurulu (EPDK)’ca hazırlanan “Elektrik Dağıtım Şirketlerinin Satın alma ve Satış İşlemleri Uygulama Yönetmeliği”nde belirtilen hizmet standartlarına göre Elektrik Dağıtım Şirketleri, elektrik kesintisi olması durumunda hizmetin tekrar sağlanmasından sorumlu olup, kesintinin ilgili limitler dahili dışında devam etmesi halinde cezai yaptırımlarla karşı karşıya kalmaktadır.Bu kapsamda Elektrik Dağıtım Şirketleri, kesintinin anında ve/veya hızlı tespiti için çeşitli prosedürler geliştirmiş ve geliştirmektedir. Kesinti tespiti için kullanılan prosedürlerden bir tanesi de Çağrı Merkezleridir. Çağrı Merkezleri 7/24 üzerinden 3 vardiya olarak kesintisiz hizmet vermektedirler.
 
-*Bu kapsamda Elektrik Dağıtım Şirketleri, kesintinin anında ve/veya hızlı tespiti için çeşitli prosedürler geliştirmiş ve geliştirmektedir. Kesinti tespiti için kullanılan prosedürlerden bir tanesi de Çağrı Merkezleridir. Çağrı Merkezleri 7/24 üzerinden 3 vardiya olarak kesintisiz hizmet vermektedirler.
-
-*Bu repository, Oluşan plansız kesintinin kaç adet çağrı merkezi çağrısına neden olacağını tahminlemek.Böylelikle kesintilere daha hızlı ve etkili bir şekilde önlem alınabilecek. 
+* Bu repository, Oluşan plansız kesintinin kaç adet çağrı merkezi çağrısına neden olacağını tahminlemek.Böylelikle kesintilere daha hızlı ve etkili bir şekilde önlem alınabilecek. 
 
 ### Data Description
 
