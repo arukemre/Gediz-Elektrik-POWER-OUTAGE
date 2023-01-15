@@ -70,5 +70,4 @@
 * Ortalama Kare Hatası tahmin edilen sonuçlarınızın gerçek sayıdan ne kadar farklı olduğuna dair size mutlak bir sayı verir. Tek bir sonuçtan çok fazla içgörü yorumlayamazsınız, ancak size diğer model sonuçlarıyla karşılaştırmak için gerçek bir sayı verir ve en iyi regresyon modelini seçmenize yardımcı olur. Kök Ortalama Karekök Hatası (RMSE), MSE’nin kareköküdür. MSE’den daha sık kullanılır çünkü bazen MSE değeri kolayca karşılaştırılamayacak kadar büyük olabilir. Bu yüzden MSE hata karesi ile hesaplanır ve böylece yorumlamayı kolaylaştırır. Fakat MSE aykırı değerlere karşı çok duyarlıdır.
 
 
-![image](https://user-images.githubusercontent.com/64266044/212553494-00c7d6aa-9fd2-491f-9240-9a14bca34647.png)
-
+![image](https://user-images.githubusercontent.com/64266044/212553538-bbeb1ce0-3516-40a2-a58a-5c32fb836ac2.png)
