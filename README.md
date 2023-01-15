@@ -1,4 +1,5 @@
 # Gediz-Elektrik-POWER-OUTAGE
+![image](https://user-images.githubusercontent.com/64266044/212553242-2556ba31-a091-4ea3-9418-8a9885b271a9.png)
 
 * Elektrik Dağıtım Sektörünü düzenleyen Enerji Piyasası Düzenleme Kurulu (EPDK)’ca hazırlanan “Elektrik Dağıtım Şirketlerinin Satın alma ve Satış İşlemleri Uygulama Yönetmeliği”nde belirtilen hizmet standartlarına göre Elektrik Dağıtım Şirketleri, elektrik kesintisi olması durumunda hizmetin tekrar sağlanmasından sorumlu olup, kesintinin ilgili limitler dahili dışında devam etmesi halinde cezai yaptırımlarla karşı karşıya kalmaktadır.Bu kapsamda Elektrik Dağıtım Şirketleri, kesintinin anında ve/veya hızlı tespiti için çeşitli prosedürler geliştirmiş ve geliştirmektedir. Kesinti tespiti için kullanılan prosedürlerden bir tanesi de Çağrı Merkezleridir. Çağrı Merkezleri 7/24 üzerinden 3 vardiya olarak kesintisiz hizmet vermektedirler.
 
@@ -57,3 +58,10 @@
   `TOPLAM_KIRSAL_AG`:Birimi saattir.Kentsel olmayan ilçelerin merkez mahallleri ile 2020 yılı TÜİK tarafından açıklanan nüfus verilerine göre nüfusu 2 000 (iki bin)in altında olan mahallelerinin alçak gerilim kesinti hatlarındaki toplam kesinti süresi.
 
   `Cagri_Count`: Kesintinin neden olduğu çağrı sayısı
+
+
+
+
+### Dikkate Alınan Değerlendirme Metrigi
+** RMSE
+![image](https://user-images.githubusercontent.com/64266044/212553191-dc3360f7-c6a4-4fe1-9931-9214a6235664.png)
