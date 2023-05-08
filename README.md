@@ -4,6 +4,16 @@
 Bu Repository Kaggle da girdiğim  `Gediz-Elektrik-POWER-OUTAGE` yarışmadaki çözümümü içermektedir.Problemimiz Gediz Elektriğin hizmet verdiği İzmir ve Manisa bölgelerinde oluşabilecek plansız kesintilerin kaç adet çağrıya neden olabileceğini tahminlemek.Böylelikle oluşabilecek kesintilere zaman kaybetmeden mudehale etmek amaçlanıyor.
 Modelde `XGBoost`  kullandım.Görselleştirmeler,kullanılan kütüphaneler ve Kendi oluştudugum fonksiyonlar `gediz_notebook.ipynb` da görebilirsiniz
 
+### Kullanılan bazı kütüphaneler
+
+>`numpy` 
+ `pandas `
+ `optuna`
+ `sklearn`
+ `matplotlib`
+ `seanborn`
+
+
 ### Data Description
 
   `KOD_NO(Outage ID)`: CRM - Müşteri/abonenin aramalarını karşılayan sorumlu tarafından alınan çağrıya istinaden TSKS sisteminde açılan kesinti kaydına atanan benzersiz(unique) numaradır.
