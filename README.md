@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/64266044/212553242-2556ba31-a091-4ea3-9418-8a9885b271a9.png)
 
 Bu Repository Kaggle da girdiğim  `Gediz-Elektrik-POWER-OUTAGE` yarışmadaki çözümümü içermektedir.Problemimiz Gediz Elektriğin hizmet verdiği İzmir ve Manisa bölgelerinde oluşabilecek plansız kesintilerin kaç adet çağrıya neden olabileceğini tahminlemek.Böylelikle oluşabilecek kesintilere zaman kaybetmeden mudehale etmek amaçlanıyor.
-Modelde `XGBoost`  kullandım.Görselleştirmeler,kullanılan kütüphaneler ve Kendi oluştudugum fonksiyonlar `gediz_notebook.ipynb` da görebilirsiniz
+Modelde `XGBoost`  kullandım.Görselleştirmeler,kullanılan kütüphaneler ve  oluştudugum fonksiyonlar `gediz_notebook.ipynb` da görebilirsiniz
 
 ### Kullanılan bazı kütüphaneler
 
