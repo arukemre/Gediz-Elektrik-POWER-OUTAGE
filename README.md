@@ -1,9 +1,7 @@
 # Gediz-Elektrik-POWER-OUTAGE
 ![image](https://user-images.githubusercontent.com/64266044/212553242-2556ba31-a091-4ea3-9418-8a9885b271a9.png)
 
-* Elektrik Dağıtım Sektörünü düzenleyen Enerji Piyasası Düzenleme Kurulu (EPDK)’ca hazırlanan “Elektrik Dağıtım Şirketlerinin Satın alma ve Satış İşlemleri Uygulama Yönetmeliği”nde belirtilen hizmet standartlarına göre Elektrik Dağıtım Şirketleri, elektrik kesintisi olması durumunda hizmetin tekrar sağlanmasından sorumlu olup, kesintinin ilgili limitler dahili dışında devam etmesi halinde cezai yaptırımlarla karşı karşıya kalmaktadır.Bu kapsamda Elektrik Dağıtım Şirketleri, kesintinin anında ve/veya hızlı tespiti için çeşitli prosedürler geliştirmiş ve geliştirmektedir. Kesinti tespiti için kullanılan prosedürlerden bir tanesi de Çağrı Merkezleridir. Çağrı Merkezleri 7/24 üzerinden 3 vardiya olarak kesintisiz hizmet vermektedirler.
-
-* Bu repository, Oluşan plansız kesintinin kaç adet çağrı merkezi çağrısına neden olacağını tahminlemek.Böylelikle kesintilere daha hızlı ve etkili bir şekilde önlem alınabilecek. 
+*Bu Repository Kaggle da girdiğim  `Gediz-Elektrik-POWER-OUTAGE` yarışmadaki çözümümü içermektedir.Problemimiz Gediz Elektriğin hizmet verdiği İzmir ve Manisa bölgelerinde oluşabilecek plansız kesintilerin kaç adet çağrıya neden olabileceğini tahminlemek.Problemimiz Regression problemi. Train verisi '2022-03-24' Tarihine kadar olan kısım kullanildi.
 
 ### Data Description
 
