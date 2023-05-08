@@ -1,7 +1,7 @@
 # Gediz-Elektrik-POWER-OUTAGE
 ![image](https://user-images.githubusercontent.com/64266044/212553242-2556ba31-a091-4ea3-9418-8a9885b271a9.png)
 
-*Bu Repository Kaggle da girdiğim  `Gediz-Elektrik-POWER-OUTAGE` yarışmadaki çözümümü içermektedir.Problemimiz Gediz Elektriğin hizmet verdiği İzmir ve Manisa bölgelerinde oluşabilecek plansız kesintilerin kaç adet çağrıya neden olabileceğini tahminlemek.Problemimiz Regression problemi. Train verisi '2022-03-24' Tarihine kadar olan kısım kullanildi.
+Bu Repository Kaggle da girdiğim  `Gediz-Elektrik-POWER-OUTAGE` yarışmadaki çözümümü içermektedir.Problemimiz Gediz Elektriğin hizmet verdiği İzmir ve Manisa bölgelerinde oluşabilecek plansız kesintilerin kaç adet çağrıya neden olabileceğini tahminlemek.Problemimiz Regression problemi. Train verisi '2022-03-24' Tarihine kadar olan kısım kullanildi.
 
 ### Data Description
 
